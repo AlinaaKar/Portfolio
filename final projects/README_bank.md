@@ -1,6 +1,6 @@
 ### Материалы
 
-Презентация (2): https://disk.yandex.ru/i/3G-hKPgmwOKzww
+Презентация: https://disk.yandex.ru/i/3G-hKPgmwOKzww
 
 Дашборд: https://public.tableau.com/views/Dashboardestimatedsalary/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
