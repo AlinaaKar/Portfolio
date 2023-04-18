@@ -51,3 +51,5 @@
 
 **Шаг 4. Вывод и презентация**
 1. Сделать вывод по результатам анализа и сделать презентацию для продуктового менеджера
+
+<img src="https://img.icons8.com/ultraviolet/512/bank-building.png" alt="drawing" style="width:50px;"/>
