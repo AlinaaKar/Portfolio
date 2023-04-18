@@ -20,4 +20,5 @@
 * ratings - содержит данные о пользовательских оценках книг;
 * reviews - содержит данные о пользовательских обзорах на книги.
 
-https://img.icons8.com/ultraviolet/512/courses.png
+<img src="https://img.icons8.com/ultraviolet/512/courses.png" alt="drawing" style="width:50px;"/>
+
