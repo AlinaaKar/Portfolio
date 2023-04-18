@@ -52,3 +52,4 @@
 * ab_project_marketing_events.csv - календарь маркетинговых событий на 2020 год;
 * final_ab_participants.csv - таблица участников тестов.
 
+<img src="https://img.icons8.com/ultraviolet/512/test-passed.png" alt="drawing" style="width:50px;"/>
